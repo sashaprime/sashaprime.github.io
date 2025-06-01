@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Заметки про веб-разработку, маркетинг, и дизайн.</title>
-        <link>http://localhost:36484/tags/</link>
+        <link>https://sashaprime.github.io/tags/</link>
         <description>Recent content in Tags on Заметки про веб-разработку, маркетинг, и дизайн.</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ru</language>
         <copyright>Alex</copyright>
-        <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:36484/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sashaprime.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>SEO</title>
-        <link>http://localhost:36484/tags/seo/</link>
+        <link>https://sashaprime.github.io/tags/seo/</link>
         <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:36484/tags/seo/</guid>
+        <guid>https://sashaprime.github.io/tags/seo/</guid>
         <description></description>
         </item>
         <item>
         <title>Браузеры</title>
-        <link>http://localhost:36484/tags/%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D1%8B/</link>
+        <link>https://sashaprime.github.io/tags/%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D1%8B/</link>
         <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:36484/tags/%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D1%8B/</guid>
+        <guid>https://sashaprime.github.io/tags/%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D1%8B/</guid>
         <description></description>
         </item>
         <item>
         <title>Дизайн</title>
-        <link>http://localhost:36484/tags/%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD/</link>
+        <link>https://sashaprime.github.io/tags/%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD/</link>
         <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:36484/tags/%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD/</guid>
+        <guid>https://sashaprime.github.io/tags/%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD/</guid>
         <description></description>
         </item>
         <item>
         <title>Инструменты</title>
-        <link>http://localhost:36484/tags/%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/</link>
+        <link>https://sashaprime.github.io/tags/%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/</link>
         <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:36484/tags/%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/</guid>
+        <guid>https://sashaprime.github.io/tags/%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/</guid>
         <description></description>
         </item>
         <item>
         <title>Расширения</title>
-        <link>http://localhost:36484/tags/%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D1%8F/</link>
+        <link>https://sashaprime.github.io/tags/%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D1%8F/</link>
         <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:36484/tags/%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D1%8F/</guid>
+        <guid>https://sashaprime.github.io/tags/%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D1%8F/</guid>
         <description></description>
         </item>
         
