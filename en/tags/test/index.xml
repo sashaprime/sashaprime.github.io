@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Test on Notes on web development, marketing, and design.</title>
+        <link>http://localhost:25830/en/tags/test/</link>
+        <description>Recent content in Test on Notes on web development, marketing, and design.</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Alex</copyright>
+        <lastBuildDate>Sun, 01 Jun 2025 10:00:00 +0300</lastBuildDate><atom:link href="http://localhost:25830/en/tags/test/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Test Post in English</title>
+        <link>http://localhost:25830/en/test-post-in-english/</link>
+        <pubDate>Sun, 01 Jun 2025 10:00:00 +0300</pubDate>
+        
+        <guid>http://localhost:25830/en/test-post-in-english/</guid>
+        <description>&lt;p&gt;This is a test post in English.&lt;/p&gt;
+&lt;h1 id=&#34;header&#34;&gt;Header
+&lt;/h1&gt;&lt;p&gt;Post content&amp;hellip;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
