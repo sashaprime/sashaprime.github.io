@@ -2,93 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sashaprime.github.io/en/tags/browsers/</loc>
-    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:36484/en/tags/browsers/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sashaprime.github.io/en/tags/design/</loc>
-    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:36484/en/tags/design/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sashaprime.github.io/en/tags/extensions/</loc>
-    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:36484/en/tags/extensions/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sashaprime.github.io/en/</loc>
-    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:36484/en/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://sashaprime.github.io/"
+                href="http://localhost:36484/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sashaprime.github.io/en/"
+                href="http://localhost:36484/en/"
                 />
   </url><url>
-    <loc>https://sashaprime.github.io/en/posts/</loc>
-    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:36484/en/posts/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://sashaprime.github.io/posts/"
+                href="http://localhost:36484/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sashaprime.github.io/en/posts/"
+                href="http://localhost:36484/en/posts/"
                 />
   </url><url>
-    <loc>https://sashaprime.github.io/en/tags/seo/</loc>
-    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:36484/en/tags/seo/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://sashaprime.github.io/tags/seo/"
+                href="http://localhost:36484/tags/seo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sashaprime.github.io/en/tags/seo/"
+                href="http://localhost:36484/en/tags/seo/"
                 />
   </url><url>
-    <loc>https://sashaprime.github.io/en/tags/</loc>
-    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:36484/en/tags/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://sashaprime.github.io/tags/"
+                href="http://localhost:36484/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sashaprime.github.io/en/tags/"
+                href="http://localhost:36484/en/tags/"
                 />
   </url><url>
-    <loc>https://sashaprime.github.io/en/tags/tools/</loc>
-    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:36484/en/tags/tools/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sashaprime.github.io/en/useful-browser-extensions/</loc>
-    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:36484/en/useful-browser-extensions/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://sashaprime.github.io/%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B5-%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D0%B0/"
+                href="http://localhost:36484/%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B5-%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D0%B0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sashaprime.github.io/en/useful-browser-extensions/"
+                href="http://localhost:36484/en/useful-browser-extensions/"
                 />
   </url><url>
-    <loc>https://sashaprime.github.io/en/categories/</loc>
+    <loc>http://localhost:36484/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://sashaprime.github.io/categories/"
+                href="http://localhost:36484/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sashaprime.github.io/en/categories/"
+                href="http://localhost:36484/en/categories/"
                 />
   </url>
 </urlset>
