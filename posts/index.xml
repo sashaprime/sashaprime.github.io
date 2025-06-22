@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Заметки про веб-разработку, маркетинг, и дизайн.</title>
-        <link>http://localhost:1313/posts/</link>
+        <link>https://sashaprime.github.io/posts/</link>
         <description>Recent content in Posts on Заметки про веб-разработку, маркетинг, и дизайн.</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ru</language>
         <copyright>Alex</copyright>
-        <lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0300</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0300</lastBuildDate><atom:link href="https://sashaprime.github.io/posts/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Конструкторы верстки HTML и CSS: Обзор и Сравнение</title>
-        <link>http://localhost:1313/posts/html-css-generation/</link>
+        <link>https://sashaprime.github.io/posts/html-css-generation/</link>
         <pubDate>Sun, 22 Jun 2025 00:00:00 +0300</pubDate>
         
-        <guid>http://localhost:1313/posts/html-css-generation/</guid>
+        <guid>https://sashaprime.github.io/posts/html-css-generation/</guid>
         <description>&lt;p&gt;Конструкторы HTML/CSS значительно упрощают процесс создания сайтов. Они позволяют визуально собирать страницы, а под капотом — генерировать чистый и адаптивный код. Такие инструменты отлично подходят для дизайнеров, начинающих разработчиков и даже профессионалов, которым важно ускорить прототипирование и создание MVP (Minimum Viable Product).&lt;/p&gt;
 &lt;h2 id=&#34;преимущества&#34;&gt;Преимущества
 &lt;/h2&gt;&lt;ul&gt;
@@ -130,10 +130,10 @@
         </item>
         <item>
         <title>Где найти модификации для Tilda: подборка ресурсов</title>
-        <link>http://localhost:1313/posts/tilda-modification/</link>
+        <link>https://sashaprime.github.io/posts/tilda-modification/</link>
         <pubDate>Wed, 04 Jun 2025 00:00:00 +0300</pubDate>
         
-        <guid>http://localhost:1313/posts/tilda-modification/</guid>
+        <guid>https://sashaprime.github.io/posts/tilda-modification/</guid>
         <description>&lt;h1 id=&#34;tilda--это-удобно-но-может-быть-ещё-лучше-где-искать-расширения-для-вашего-сайта&#34;&gt;Tilda — это удобно. Но может быть ещё лучше! Где искать расширения для вашего сайта?
 &lt;/h1&gt;&lt;p&gt;Tilda — удивительно удобный инструмент для быстрого создания сайтов без лишней возни. Вы наверняка уже оценили её возможности: за несколько часов можно собрать современный проект, который отлично выглядит и работает. Но что, если хочется большего? Например, чтобы кнопка эффектно появлялась при наведении, а раздел с портфолио отличался от стандартных шаблонов?&lt;/p&gt;
 &lt;p&gt;Именно в такие моменты встроенные функции Tilda, какими бы функциональными они ни были, могут показаться слишком предсказуемыми.&lt;/p&gt;
@@ -212,10 +212,10 @@
         </item>
         <item>
         <title>Полезные расширения для браузера</title>
-        <link>http://localhost:1313/posts/extension/</link>
+        <link>https://sashaprime.github.io/posts/extension/</link>
         <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/posts/extension/</guid>
+        <guid>https://sashaprime.github.io/posts/extension/</guid>
         <description>&lt;h2 id=&#34;1-adguard-антибаннер--блокировка-рекламы&#34;&gt;1. AdGuard Антибаннер — блокировка рекламы
 &lt;/h2&gt;&lt;p&gt;В век информационной перегрузки реклама может сильно отвлекать от основного контента. В этом случае незаменим блокировщик рекламы. Один из лучших — &lt;strong&gt;AdGuard Антибаннер&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ссылка для установки:&lt;/strong&gt;&lt;br&gt;

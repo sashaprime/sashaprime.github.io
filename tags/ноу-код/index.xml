@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Ноу-Код on Заметки про веб-разработку, маркетинг, и дизайн.</title>
-        <link>http://localhost:1313/tags/%D0%BD%D0%BE%D1%83-%D0%BA%D0%BE%D0%B4/</link>
+        <link>https://sashaprime.github.io/tags/%D0%BD%D0%BE%D1%83-%D0%BA%D0%BE%D0%B4/</link>
         <description>Recent content in Ноу-Код on Заметки про веб-разработку, маркетинг, и дизайн.</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ru</language>
         <copyright>Alex</copyright>
-        <lastBuildDate>Wed, 04 Jun 2025 00:00:00 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/%D0%BD%D0%BE%D1%83-%D0%BA%D0%BE%D0%B4/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 04 Jun 2025 00:00:00 +0300</lastBuildDate><atom:link href="https://sashaprime.github.io/tags/%D0%BD%D0%BE%D1%83-%D0%BA%D0%BE%D0%B4/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Где найти модификации для Tilda: подборка ресурсов</title>
-        <link>http://localhost:1313/posts/tilda-modification/</link>
+        <link>https://sashaprime.github.io/posts/tilda-modification/</link>
         <pubDate>Wed, 04 Jun 2025 00:00:00 +0300</pubDate>
         
-        <guid>http://localhost:1313/posts/tilda-modification/</guid>
+        <guid>https://sashaprime.github.io/posts/tilda-modification/</guid>
         <description>&lt;h1 id=&#34;tilda--это-удобно-но-может-быть-ещё-лучше-где-искать-расширения-для-вашего-сайта&#34;&gt;Tilda — это удобно. Но может быть ещё лучше! Где искать расширения для вашего сайта?
 &lt;/h1&gt;&lt;p&gt;Tilda — удивительно удобный инструмент для быстрого создания сайтов без лишней возни. Вы наверняка уже оценили её возможности: за несколько часов можно собрать современный проект, который отлично выглядит и работает. Но что, если хочется большего? Например, чтобы кнопка эффектно появлялась при наведении, а раздел с портфолио отличался от стандартных шаблонов?&lt;/p&gt;
 &lt;p&gt;Именно в такие моменты встроенные функции Tilda, какими бы функциональными они ни были, могут показаться слишком предсказуемыми.&lt;/p&gt;

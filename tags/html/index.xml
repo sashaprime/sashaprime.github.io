@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Html on Заметки про веб-разработку, маркетинг, и дизайн.</title>
-        <link>http://localhost:1313/tags/html/</link>
+        <link>https://sashaprime.github.io/tags/html/</link>
         <description>Recent content in Html on Заметки про веб-разработку, маркетинг, и дизайн.</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ru</language>
         <copyright>Alex</copyright>
-        <lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/html/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0300</lastBuildDate><atom:link href="https://sashaprime.github.io/tags/html/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Конструкторы верстки HTML и CSS: Обзор и Сравнение</title>
-        <link>http://localhost:1313/posts/html-css-generation/</link>
+        <link>https://sashaprime.github.io/posts/html-css-generation/</link>
         <pubDate>Sun, 22 Jun 2025 00:00:00 +0300</pubDate>
         
-        <guid>http://localhost:1313/posts/html-css-generation/</guid>
+        <guid>https://sashaprime.github.io/posts/html-css-generation/</guid>
         <description>&lt;p&gt;Конструкторы HTML/CSS значительно упрощают процесс создания сайтов. Они позволяют визуально собирать страницы, а под капотом — генерировать чистый и адаптивный код. Такие инструменты отлично подходят для дизайнеров, начинающих разработчиков и даже профессионалов, которым важно ускорить прототипирование и создание MVP (Minimum Viable Product).&lt;/p&gt;
 &lt;h2 id=&#34;преимущества&#34;&gt;Преимущества
 &lt;/h2&gt;&lt;ul&gt;

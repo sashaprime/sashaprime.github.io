@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tilda on Notes on web development, marketing, and design.</title>
-        <link>http://localhost:1313/en/tags/tilda/</link>
+        <link>https://sashaprime.github.io/en/tags/tilda/</link>
         <description>Recent content in Tilda on Notes on web development, marketing, and design.</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Alex</copyright>
-        <lastBuildDate>Wed, 04 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/tilda/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 04 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sashaprime.github.io/en/tags/tilda/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Where to Find Tilda Modifications: A Curated Resource List</title>
-        <link>http://localhost:1313/en/posts/tilda-modification/</link>
+        <link>https://sashaprime.github.io/en/posts/tilda-modification/</link>
         <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/posts/tilda-modification/</guid>
+        <guid>https://sashaprime.github.io/en/posts/tilda-modification/</guid>
         <description>&lt;h1 id=&#34;tilda-is-great-but-it-can-be-even-better-where-to-find-enhancements-for-your-website&#34;&gt;Tilda is great. But it can be even better! Where to find enhancements for your website?
 &lt;/h1&gt;&lt;p&gt;Tilda is an incredibly user-friendly platform for quickly building websites without the hassle. You’ve probably already appreciated its capabilities — in just a few hours, you can create a site that looks great and works well. But what if you want more? Maybe you’d like a button that animates on hover, or a portfolio section that behaves differently from standard blocks?&lt;/p&gt;
 &lt;p&gt;This is where built-in Tilda features, however powerful, might start to feel a bit&amp;hellip; predictable.&lt;/p&gt;

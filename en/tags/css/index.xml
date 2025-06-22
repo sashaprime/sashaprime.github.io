@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Css on Notes on web development, marketing, and design.</title>
-        <link>http://localhost:1313/en/tags/css/</link>
+        <link>https://sashaprime.github.io/en/tags/css/</link>
         <description>Recent content in Css on Notes on web development, marketing, and design.</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Alex</copyright>
-        <lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/css/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sashaprime.github.io/en/tags/css/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>HTML and CSS Builders: Overview and Comparison</title>
-        <link>http://localhost:1313/en/posts/html-css-generation/</link>
+        <link>https://sashaprime.github.io/en/posts/html-css-generation/</link>
         <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/posts/html-css-generation/</guid>
+        <guid>https://sashaprime.github.io/en/posts/html-css-generation/</guid>
         <description>&lt;p&gt;HTML/CSS builders significantly simplify the website creation process. They allow you to visually assemble pages while generating clean, responsive code under the hood. These tools are perfect for designers, beginner developers, and even professionals looking to speed up prototyping and MVP (Minimum Viable Product) creation.&lt;/p&gt;
 &lt;h2 id=&#34;advantages&#34;&gt;Advantages
 &lt;/h2&gt;&lt;ul&gt;

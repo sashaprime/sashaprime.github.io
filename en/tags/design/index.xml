@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Design on Notes on web development, marketing, and design.</title>
-        <link>http://localhost:1313/en/tags/design/</link>
+        <link>https://sashaprime.github.io/en/tags/design/</link>
         <description>Recent content in Design on Notes on web development, marketing, and design.</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Alex</copyright>
-        <lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/design/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sashaprime.github.io/en/tags/design/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Useful Browser Extensions</title>
-        <link>http://localhost:1313/en/posts/extension/</link>
+        <link>https://sashaprime.github.io/en/posts/extension/</link>
         <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/posts/extension/</guid>
+        <guid>https://sashaprime.github.io/en/posts/extension/</guid>
         <description>&lt;h2 id=&#34;1-adguard-adblocker--ad-blocking&#34;&gt;1. AdGuard AdBlocker — Ad Blocking
 &lt;/h2&gt;&lt;p&gt;In the age of information overload, distracting ads can disrupt your focus. A good ad blocker is essential — one of the best is &lt;strong&gt;AdGuard AdBlocker&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Installation link:&lt;/strong&gt;&lt;br&gt;
