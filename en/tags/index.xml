@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on Notes on web development, marketing, and design.</title>
+        <link>http://localhost:1313/en/tags/</link>
+        <description>Recent content in Tags on Notes on web development, marketing, and design.</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Alex</copyright>
+        <lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Css</title>
+        <link>http://localhost:1313/en/tags/css/</link>
+        <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/tags/css/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Html</title>
+        <link>http://localhost:1313/en/tags/html/</link>
+        <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/tags/html/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>No-Code</title>
+        <link>http://localhost:1313/en/tags/no-code/</link>
+        <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/tags/no-code/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Site Builder</title>
+        <link>http://localhost:1313/en/tags/site-builder/</link>
+        <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/tags/site-builder/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Webflow</title>
+        <link>http://localhost:1313/en/tags/webflow/</link>
+        <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/tags/webflow/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Development</title>
+        <link>http://localhost:1313/en/tags/development/</link>
+        <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/tags/development/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Modifications</title>
+        <link>http://localhost:1313/en/tags/modifications/</link>
+        <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/tags/modifications/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Tilda</title>
+        <link>http://localhost:1313/en/tags/tilda/</link>
+        <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/tags/tilda/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Web Design</title>
+        <link>http://localhost:1313/en/tags/web-design/</link>
+        <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/tags/web-design/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Browsers</title>
+        <link>http://localhost:1313/en/tags/browsers/</link>
+        <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/tags/browsers/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Design</title>
+        <link>http://localhost:1313/en/tags/design/</link>
+        <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/tags/design/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Extensions</title>
+        <link>http://localhost:1313/en/tags/extensions/</link>
+        <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/tags/extensions/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>SEO</title>
+        <link>http://localhost:1313/en/tags/seo/</link>
+        <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/tags/seo/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Tools</title>
+        <link>http://localhost:1313/en/tags/tools/</link>
+        <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/tags/tools/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

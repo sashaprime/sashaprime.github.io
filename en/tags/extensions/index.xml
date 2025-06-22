@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Extensions on Notes on web development, marketing, and design.</title>
+        <link>http://localhost:1313/en/tags/extensions/</link>
+        <description>Recent content in Extensions on Notes on web development, marketing, and design.</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Alex</copyright>
+        <lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/extensions/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Useful Browser Extensions</title>
+        <link>http://localhost:1313/en/posts/extension/</link>
+        <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/posts/extension/</guid>
+        <description>&lt;h2 id=&#34;1-adguard-adblocker--ad-blocking&#34;&gt;1. AdGuard AdBlocker — Ad Blocking
+&lt;/h2&gt;&lt;p&gt;In the age of information overload, distracting ads can disrupt your focus. A good ad blocker is essential — one of the best is &lt;strong&gt;AdGuard AdBlocker&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Installation link:&lt;/strong&gt;&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://chromewebstore.google.com/detail/adguard-%D0%B0%D0%BD%D1%82%D0%B8%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80/bgnkhhnnamicmpeenaelnjfhikgbkllg?hl=ru&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;AdGuard AdBlocker on Chrome Web Store&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Or search manually in your browser’s extension store:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Chrome, Opera, Edge: &lt;a class=&#34;link&#34; href=&#34;https://chromewebstore.google.com/category/extensions&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;chromewebstore.google.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Firefox: &lt;a class=&#34;link&#34; href=&#34;https://addons.mozilla.org/en-US/firefox/extensions/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;addons.mozilla.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Search term: &lt;code&gt;AdGuard AdBlocker&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;configuration&#34;&gt;Configuration
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Click the extension icon → click the gear icon to open settings.&lt;/li&gt;
+&lt;li&gt;In the &lt;strong&gt;Filters&lt;/strong&gt; section, enable:
+&lt;ul&gt;
+&lt;li&gt;Ad Blocking&lt;/li&gt;
+&lt;li&gt;Privacy&lt;/li&gt;
+&lt;li&gt;Annoyances (blocks pop-ups like &amp;ldquo;Install Yandex Browser&amp;rdquo;)&lt;/li&gt;
+&lt;li&gt;Language-specific filters (e.g., Russian or your preferred language)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Go to &lt;strong&gt;Tracking Protection&lt;/strong&gt; to block trackers, including ad trackers.&lt;/li&gt;
+&lt;li&gt;To manually block stubborn elements:
+&lt;ul&gt;
+&lt;li&gt;Right-click the extension icon → &lt;strong&gt;Block ads manually&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Hover over the element and click to block.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;P.S.&lt;/strong&gt; I&amp;rsquo;m not against ads — but popups and phishing banners are just too much.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;2-wappalyzer--website-technology-profiler&#34;&gt;2. Wappalyzer — Website Technology Profiler
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Wappalyzer&lt;/strong&gt; is a handy tool to find out what technologies a website uses.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How to use:&lt;/strong&gt;&lt;br&gt;
+After installation, click the extension icon to view data about the site&amp;rsquo;s CMS, analytics tools, plugins, and more (especially useful for WordPress sites).&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;3-alaev-seo-tools--express-seo-audit&#34;&gt;3. Alaev SEO Tools — Express SEO Audit
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Alaev SEO Tools&lt;/strong&gt; provides a quick SEO overview of any webpage.&lt;/p&gt;
+&lt;h3 id=&#34;features&#34;&gt;Features:
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Overview&lt;/strong&gt; — meta tags (title, description), headings H1–H6, sitemap status&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Page&lt;/strong&gt; — highlight H1–H6, check for missing alt tags, word count, reindexing in Yandex Webmaster, and PageSpeed testing&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Links&lt;/strong&gt; — view internal/external links and follow/nofollow attributes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Images&lt;/strong&gt; — audit images for missing &lt;code&gt;alt&lt;/code&gt; attributes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Structured Data&lt;/strong&gt; — inspect OpenGraph and Twitter metadata&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;❗ This is a quick audit, not a full-scale analysis.&lt;br&gt;
+For full audits, use:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇷🇺 &lt;a class=&#34;link&#34; href=&#34;https://be1.ru&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;be1.ru&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://pr-cy.ru&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;pr-cy.ru&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://www.rush-analytics.ru&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;rush-analytics.ru&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🌍 &lt;a class=&#34;link&#34; href=&#34;https://www.similarweb.com/ru/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;similarweb.com&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://www.semrush.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;semrush.com&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://ahrefs.com/ru&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;ahrefs.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;4-yandex-wordstat-assistant--keyword-collection-tool&#34;&gt;4. Yandex Wordstat Assistant — Keyword Collection Tool
+&lt;/h2&gt;&lt;p&gt;To collect keywords from Yandex Wordstat, use &lt;strong&gt;Yandex Wordstat Assistant&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Install from:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://chromewebstore.google.com/detail/yandex-wordstat-assistant/nbihjogngdgindfodcjbelhgjdpmkolc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Chrome&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://addons.opera.com/en/extensions/details/yandex-wordstat-assistant/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Opera&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://addons.mozilla.org/en-US/firefox/addon/yandex-wordstat-assistant/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Firefox&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;How it works:&lt;/strong&gt;&lt;br&gt;
+Visit &lt;a class=&#34;link&#34; href=&#34;https://wordstat.yandex.ru/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;wordstat.yandex.ru&lt;/a&gt; — a panel will appear on the left side of the page.&lt;/p&gt;
+&lt;p&gt;Main functions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Add keywords from the list&lt;/li&gt;
+&lt;li&gt;Copy keywords with or without frequency&lt;/li&gt;
+&lt;li&gt;Sort keywords alphabetically&lt;/li&gt;
+&lt;li&gt;Delete unnecessary queries&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Copy your keyword list to Excel for analysis, clustering, and further SEO or ad campaign planning.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;5-font-finder--inspect-web-fonts&#34;&gt;5. Font Finder — Inspect Web Fonts
+&lt;/h2&gt;&lt;p&gt;Use &lt;strong&gt;Font Finder&lt;/strong&gt; to inspect any text element on a webpage.&lt;/p&gt;
+&lt;p&gt;What you can view:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Font family&lt;/li&gt;
+&lt;li&gt;Size&lt;/li&gt;
+&lt;li&gt;Color&lt;/li&gt;
+&lt;li&gt;Styling properties (e.g., bold, italic)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Install from:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://chromewebstore.google.com/detail/font-finder/bhiichidigehdgphoambhjbekalahgha&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Chrome / Edge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://addons.opera.com/en/extensions/details/font-finder/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Opera&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://addons.mozilla.org/en-US/firefox/addon/font-inspect/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Firefox&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;6-colorzilla--color-picker-tool&#34;&gt;6. ColorZilla — Color Picker Tool
+&lt;/h2&gt;&lt;p&gt;Pick any color from a webpage with &lt;strong&gt;ColorZilla&lt;/strong&gt;. The hex code is automatically copied to the clipboard.&lt;/p&gt;
+&lt;p&gt;Extras:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Color Picker Panel&lt;/strong&gt; — saves color history&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;Esc&lt;/code&gt; to deactivate the tool&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Install from:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Chrome / Edge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://addons.mozilla.org/ru/firefox/addon/colorzilla/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Firefox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://addons.opera.com/ru/extensions/details/colorpicker-eyedropper/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Opera&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;7-gofullpage--full-page-screenshots&#34;&gt;7. GoFullPage — Full Page Screenshots
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;GoFullPage – Full Page Screen Capture&lt;/strong&gt; takes full-length screenshots of web pages.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How to use:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Install the extension&lt;/li&gt;
+&lt;li&gt;Click the icon to start capture&lt;/li&gt;
+&lt;li&gt;Save the result as PNG or PDF&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Install from:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Chrome / Edge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Not available for Firefox&lt;/li&gt;
+&lt;li&gt;In Opera, install as a Chrome extension&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

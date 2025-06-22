@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on Заметки про веб-разработку, маркетинг, и дизайн.</title>
+        <link>http://localhost:1313/tags/</link>
+        <description>Recent content in Tags on Заметки про веб-разработку, маркетинг, и дизайн.</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ru</language>
+        <copyright>Alex</copyright>
+        <lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Css</title>
+        <link>http://localhost:1313/tags/css/</link>
+        <pubDate>Sun, 22 Jun 2025 00:00:00 +0300</pubDate>
+        
+        <guid>http://localhost:1313/tags/css/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Html</title>
+        <link>http://localhost:1313/tags/html/</link>
+        <pubDate>Sun, 22 Jun 2025 00:00:00 +0300</pubDate>
+        
+        <guid>http://localhost:1313/tags/html/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>No-Code</title>
+        <link>http://localhost:1313/tags/no-code/</link>
+        <pubDate>Sun, 22 Jun 2025 00:00:00 +0300</pubDate>
+        
+        <guid>http://localhost:1313/tags/no-code/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Webflow</title>
+        <link>http://localhost:1313/tags/webflow/</link>
+        <pubDate>Sun, 22 Jun 2025 00:00:00 +0300</pubDate>
+        
+        <guid>http://localhost:1313/tags/webflow/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Визуальный Редактор</title>
+        <link>http://localhost:1313/tags/%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80/</link>
+        <pubDate>Sun, 22 Jun 2025 00:00:00 +0300</pubDate>
+        
+        <guid>http://localhost:1313/tags/%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Конструкторы</title>
+        <link>http://localhost:1313/tags/%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%BE%D1%80%D1%8B/</link>
+        <pubDate>Sun, 22 Jun 2025 00:00:00 +0300</pubDate>
+        
+        <guid>http://localhost:1313/tags/%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%BE%D1%80%D1%8B/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Tilda</title>
+        <link>http://localhost:1313/tags/tilda/</link>
+        <pubDate>Wed, 04 Jun 2025 00:00:00 +0300</pubDate>
+        
+        <guid>http://localhost:1313/tags/tilda/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Дизайн</title>
+        <link>http://localhost:1313/tags/%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD/</link>
+        <pubDate>Wed, 04 Jun 2025 00:00:00 +0300</pubDate>
+        
+        <guid>http://localhost:1313/tags/%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Модификации</title>
+        <link>http://localhost:1313/tags/%D0%BC%D0%BE%D0%B4%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8/</link>
+        <pubDate>Wed, 04 Jun 2025 00:00:00 +0300</pubDate>
+        
+        <guid>http://localhost:1313/tags/%D0%BC%D0%BE%D0%B4%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Ноу-Код</title>
+        <link>http://localhost:1313/tags/%D0%BD%D0%BE%D1%83-%D0%BA%D0%BE%D0%B4/</link>
+        <pubDate>Wed, 04 Jun 2025 00:00:00 +0300</pubDate>
+        
+        <guid>http://localhost:1313/tags/%D0%BD%D0%BE%D1%83-%D0%BA%D0%BE%D0%B4/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Разработка</title>
+        <link>http://localhost:1313/tags/%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/</link>
+        <pubDate>Wed, 04 Jun 2025 00:00:00 +0300</pubDate>
+        
+        <guid>http://localhost:1313/tags/%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>SEO</title>
+        <link>http://localhost:1313/tags/seo/</link>
+        <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/seo/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Браузеры</title>
+        <link>http://localhost:1313/tags/%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D1%8B/</link>
+        <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D1%8B/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Инструменты</title>
+        <link>http://localhost:1313/tags/%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/</link>
+        <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Расширения</title>
+        <link>http://localhost:1313/tags/%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D1%8F/</link>
+        <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D1%8F/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
